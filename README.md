@@ -2,6 +2,10 @@
 
 This is the backend REST support for the [RAL Events Application]([https://github.com/aghar11](https://github.com/aghar11/ral-events-frontend-ios/tree/main)). This will serve persisted data to the frontend by exposing REST API endpoints.
 
+## Tech
+
+Python, FastAPI, SQLAlchemy, Pydantic
+
 ## Authors
 
 - [@aghar11](https://github.com/aghar11)
